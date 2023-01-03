@@ -1,11 +1,18 @@
 body {
-    background-color: aquamarine;
+    background-color: darkslateblue;
 }
 
 table {
-    border-radius: 2px solid black;
+    border: 2px solid white;
+    color: burlywood;
 }
 
+h1,
 p {
     max-width: 500px;
+    color: beige;
+}
+
+th {
+    background-color: gray;
 }
