@@ -1,9 +1,0 @@
-========
-RAINBOW
-========
-
-red
-orange
-yellow
-green
-purple
